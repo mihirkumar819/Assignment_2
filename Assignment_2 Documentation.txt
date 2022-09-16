@@ -1,0 +1,8 @@
+ Problem Statement : create a random quote application
+  		  every 20 second a random quote will be displayed on the screen
+		  you can create an array of 10 quotes.
+ While doing assignment i learnt many different functions of JavaScript and also learnt about generating random 
+number using math.random() and about array in javascript.
+
+I took references from https://parade.com/937586/parade/life-quotes/  for Quotes.
+
